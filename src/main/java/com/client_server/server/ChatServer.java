@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.net.ServerSocket;
 
-public class ChatServer {
+public class    ChatServer {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ChatServer.class);
 
